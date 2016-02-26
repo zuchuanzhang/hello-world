@@ -1,2 +1,2 @@
 # hello-world
-helloo-world is hello world.hehe
+hello-world is hello world.hehe
